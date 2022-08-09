@@ -4,47 +4,52 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Networking;
 using UnityEngine.UI;
-
-
 public class login : MonoBehaviour
 {
     public InputField txtUSN;
     public InputField txtPW;
-
-    public class APIURL
+    public static string REGISTER_URL = "https://fpoly-hcm.herokuapp.com/api/auth/login";
+    // Start is called before the first frame update
+    void Start()
     {
-        public static string LOGIN_URL = "https://sale.daiduongcorp.vn/servergameapi/views/checklogin.php";
-        public static string REGISTER_URL = "http://localhost:9999/views/register.php";
-        public static string GETTOPSCORE_URL = "http://localhost:9999/views/getTop5HightScoreUsers.php";
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
     }
     private IEnumerator CreateRequest()
     {
-        string user_name = txtUSN.GetComponent<InputField>().text;
+        string email = txtUSN.GetComponent<InputField>().text;
         string password = txtPW.GetComponent<InputField>().text;
-        if (string.Equals(user_name.Trim(), "") || string.Equals(password.Trim(), ""))
+        if (string.Equals(email.Trim(), "") || string.Equals(password.Trim(), ""))
         {
-           
+            Debug.Log("tai khoan hoac mat khau sai");
         }
         else
         {
             WWWForm form = new WWWForm();
-            form.AddField("user_name", user_name);
+            form.AddField("email", email);
             form.AddField("password", password);
-            UnityWebRequest request = UnityWebRequest.Post(APIURL.LOGIN_URL, form);
+            UnityWebRequest request = UnityWebRequest.Post(REGISTER_URL, form);
             yield return request.SendWebRequest();
-
+            Debug.Log(request.responseCode);
             if (request.responseCode == 200)
             {
+
                 SceneManager.LoadScene("SampleScene");
             }
             else
             {
-                Debug.Log("tai khoan hoac mat khau sai");
+                Debug.Log("login failed");
             }
         }
     }
-    public void CheckLogin()
+    public void Register()
     {
         StartCoroutine(CreateRequest());
     }
+
 }

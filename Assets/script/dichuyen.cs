@@ -14,6 +14,7 @@ public class dichuyen : MonoBehaviour
     public AudioSource Dead;
     public bool nhay = true;
     public GameObject SrcPause;
+    public GameObject replay;
     void Start()
     {
         ani = GetComponent<Animator>();
@@ -85,6 +86,7 @@ public class dichuyen : MonoBehaviour
         {
             Dead.Play();
             Time.timeScale = 0;
+            replay.SetActive(true);
         }
     }
 }

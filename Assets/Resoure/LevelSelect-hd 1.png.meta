@@ -1,0 +1,5182 @@
+fileFormatVersion: 2
+guid: a4c4761478afa4344866850b5ef2da4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7630623062372535039
+    second: LevelSelect-hd 1_0
+  - first:
+      213: 4565623649450329178
+    second: LevelSelect-hd 1_1
+  - first:
+      213: -2683457770429602575
+    second: LevelSelect-hd 1_2
+  - first:
+      213: -6983454160673380138
+    second: LevelSelect-hd 1_3
+  - first:
+      213: 4922649922134629765
+    second: LevelSelect-hd 1_4
+  - first:
+      213: -3045657047048335383
+    second: LevelSelect-hd 1_5
+  - first:
+      213: -983507428262159358
+    second: LevelSelect-hd 1_6
+  - first:
+      213: 4482681918657634290
+    second: LevelSelect-hd 1_7
+  - first:
+      213: 8816156700072597500
+    second: LevelSelect-hd 1_8
+  - first:
+      213: 8245109767418003888
+    second: LevelSelect-hd 1_9
+  - first:
+      213: 5395642411636979964
+    second: LevelSelect-hd 1_10
+  - first:
+      213: -4071445126773031319
+    second: LevelSelect-hd 1_11
+  - first:
+      213: -3056998362106461796
+    second: LevelSelect-hd 1_12
+  - first:
+      213: 6306085332802142932
+    second: LevelSelect-hd 1_13
+  - first:
+      213: 2432012432477305113
+    second: LevelSelect-hd 1_14
+  - first:
+      213: -3207044805206932137
+    second: LevelSelect-hd 1_15
+  - first:
+      213: -8680291976673743800
+    second: LevelSelect-hd 1_16
+  - first:
+      213: -8158844271667280714
+    second: LevelSelect-hd 1_17
+  - first:
+      213: -7672504350161124050
+    second: LevelSelect-hd 1_18
+  - first:
+      213: -2737705953260875472
+    second: LevelSelect-hd 1_19
+  - first:
+      213: 5771663474331634538
+    second: LevelSelect-hd 1_20
+  - first:
+      213: -4490479489829550155
+    second: LevelSelect-hd 1_21
+  - first:
+      213: 7815999297547496182
+    second: LevelSelect-hd 1_22
+  - first:
+      213: -6350371558536590516
+    second: LevelSelect-hd 1_23
+  - first:
+      213: 3587505788878450604
+    second: LevelSelect-hd 1_24
+  - first:
+      213: -6135157117757436006
+    second: LevelSelect-hd 1_25
+  - first:
+      213: 6602161190193041404
+    second: LevelSelect-hd 1_26
+  - first:
+      213: -1357875157201752617
+    second: LevelSelect-hd 1_27
+  - first:
+      213: 2815213601133878879
+    second: LevelSelect-hd 1_28
+  - first:
+      213: 7380149880732983442
+    second: LevelSelect-hd 1_29
+  - first:
+      213: -6124563796320102575
+    second: LevelSelect-hd 1_30
+  - first:
+      213: 7514647314207174367
+    second: LevelSelect-hd 1_31
+  - first:
+      213: -8298954086107582131
+    second: LevelSelect-hd 1_32
+  - first:
+      213: -7198429938679285012
+    second: LevelSelect-hd 1_33
+  - first:
+      213: -7429071354822982814
+    second: LevelSelect-hd 1_34
+  - first:
+      213: -8789872061789882886
+    second: LevelSelect-hd 1_35
+  - first:
+      213: -795061471871280479
+    second: LevelSelect-hd 1_36
+  - first:
+      213: -2685013286489857788
+    second: LevelSelect-hd 1_37
+  - first:
+      213: 8863948327130375024
+    second: LevelSelect-hd 1_38
+  - first:
+      213: 7466965993124768807
+    second: LevelSelect-hd 1_39
+  - first:
+      213: -217916494986005056
+    second: LevelSelect-hd 1_40
+  - first:
+      213: 4083515773076448353
+    second: LevelSelect-hd 1_41
+  - first:
+      213: 8274009463058164631
+    second: LevelSelect-hd 1_42
+  - first:
+      213: 76005750428567619
+    second: LevelSelect-hd 1_43
+  - first:
+      213: -2237624982611520671
+    second: LevelSelect-hd 1_44
+  - first:
+      213: 9097652308476004845
+    second: LevelSelect-hd 1_45
+  - first:
+      213: 5236262986942640512
+    second: LevelSelect-hd 1_46
+  - first:
+      213: -8142222005835852318
+    second: LevelSelect-hd 1_47
+  - first:
+      213: -1994025698328277362
+    second: LevelSelect-hd 1_48
+  - first:
+      213: 8439772096757573878
+    second: LevelSelect-hd 1_49
+  - first:
+      213: 3727376396751552172
+    second: LevelSelect-hd 1_50
+  - first:
+      213: 1231444959700084404
+    second: LevelSelect-hd 1_51
+  - first:
+      213: -7058521115327868042
+    second: LevelSelect-hd 1_52
+  - first:
+      213: -4368877228332803201
+    second: LevelSelect-hd 1_53
+  - first:
+      213: 769591315349320631
+    second: LevelSelect-hd 1_54
+  - first:
+      213: 5502483852020813719
+    second: LevelSelect-hd 1_55
+  - first:
+      213: 1005507260801508730
+    second: LevelSelect-hd 1_56
+  - first:
+      213: 4237422421289705103
+    second: LevelSelect-hd 1_57
+  - first:
+      213: -2038681899317613926
+    second: LevelSelect-hd 1_58
+  - first:
+      213: 4231932220219647266
+    second: LevelSelect-hd 1_59
+  - first:
+      213: 3778056981853488946
+    second: LevelSelect-hd 1_60
+  - first:
+      213: -8153913734137678841
+    second: LevelSelect-hd 1_61
+  - first:
+      213: -5732430912038590047
+    second: LevelSelect-hd 1_62
+  - first:
+      213: -77315727151125927
+    second: LevelSelect-hd 1_63
+  - first:
+      213: 3167166210892398308
+    second: LevelSelect-hd 1_64
+  - first:
+      213: -777030752429615276
+    second: LevelSelect-hd 1_65
+  - first:
+      213: 8024470933021597639
+    second: LevelSelect-hd 1_66
+  - first:
+      213: -3880175930993894498
+    second: LevelSelect-hd 1_67
+  - first:
+      213: 3846747386077667555
+    second: LevelSelect-hd 1_68
+  - first:
+      213: -7715785026350095836
+    second: LevelSelect-hd 1_69
+  - first:
+      213: -5516341003032813405
+    second: LevelSelect-hd 1_70
+  - first:
+      213: 5590423126186971916
+    second: LevelSelect-hd 1_71
+  - first:
+      213: -5230237724621614699
+    second: LevelSelect-hd 1_72
+  - first:
+      213: 8662874543541257372
+    second: LevelSelect-hd 1_73
+  - first:
+      213: -5814046856530577872
+    second: LevelSelect-hd 1_74
+  - first:
+      213: 7647115784664018853
+    second: LevelSelect-hd 1_75
+  - first:
+      213: -3550295289621174347
+    second: LevelSelect-hd 1_76
+  - first:
+      213: 8459573182035472833
+    second: LevelSelect-hd 1_77
+  - first:
+      213: 2424735863015537739
+    second: LevelSelect-hd 1_78
+  - first:
+      213: -3244865576583483901
+    second: LevelSelect-hd 1_79
+  - first:
+      213: -6830540211541892516
+    second: LevelSelect-hd 1_80
+  - first:
+      213: -1628425929141661796
+    second: LevelSelect-hd 1_81
+  - first:
+      213: 8867354526309764235
+    second: LevelSelect-hd 1_82
+  - first:
+      213: 5404817514018528855
+    second: LevelSelect-hd 1_83
+  - first:
+      213: 4814462840134420475
+    second: LevelSelect-hd 1_84
+  - first:
+      213: 2480096916297216260
+    second: LevelSelect-hd 1_85
+  - first:
+      213: 6975717889421300301
+    second: LevelSelect-hd 1_86
+  - first:
+      213: -336674026080806649
+    second: LevelSelect-hd 1_87
+  - first:
+      213: 2609365414724404325
+    second: LevelSelect-hd 1_88
+  - first:
+      213: 8759142316018724632
+    second: LevelSelect-hd 1_89
+  - first:
+      213: 9058424683683280999
+    second: LevelSelect-hd 1_90
+  - first:
+      213: -3548263430565883381
+    second: LevelSelect-hd 1_91
+  - first:
+      213: 332924123777237783
+    second: LevelSelect-hd 1_92
+  - first:
+      213: -1288851988339404502
+    second: LevelSelect-hd 1_93
+  - first:
+      213: -1008822097432278828
+    second: LevelSelect-hd 1_94
+  - first:
+      213: -3601116470521607490
+    second: LevelSelect-hd 1_95
+  - first:
+      213: -5176576053985214161
+    second: LevelSelect-hd 1_96
+  - first:
+      213: -7918812834842733486
+    second: LevelSelect-hd 1_97
+  - first:
+      213: -1299841123524107329
+    second: LevelSelect-hd 1_98
+  - first:
+      213: -8427607788657318368
+    second: LevelSelect-hd 1_99
+  - first:
+      213: -6777446573483663434
+    second: LevelSelect-hd 1_100
+  - first:
+      213: 3674389050476177051
+    second: LevelSelect-hd 1_101
+  - first:
+      213: -5586874574934906151
+    second: LevelSelect-hd 1_102
+  - first:
+      213: 734349057563135218
+    second: LevelSelect-hd 1_103
+  - first:
+      213: 357888550058766766
+    second: LevelSelect-hd 1_104
+  - first:
+      213: -8250987816837687023
+    second: LevelSelect-hd 1_105
+  - first:
+      213: 294920836181882754
+    second: LevelSelect-hd 1_106
+  - first:
+      213: 5394023352288903499
+    second: LevelSelect-hd 1_107
+  - first:
+      213: 7692799615808285318
+    second: LevelSelect-hd 1_108
+  - first:
+      213: -6814426743017689115
+    second: LevelSelect-hd 1_109
+  - first:
+      213: 5311496790772552356
+    second: LevelSelect-hd 1_110
+  - first:
+      213: 2496000818873437301
+    second: LevelSelect-hd 1_111
+  - first:
+      213: 8996816760977361821
+    second: LevelSelect-hd 1_112
+  - first:
+      213: -3870929027302006633
+    second: LevelSelect-hd 1_113
+  - first:
+      213: -153633006552449081
+    second: LevelSelect-hd 1_114
+  - first:
+      213: -881212398475413280
+    second: LevelSelect-hd 1_115
+  - first:
+      213: 838950019301578952
+    second: LevelSelect-hd 1_116
+  - first:
+      213: -6814527237759627249
+    second: LevelSelect-hd 1_117
+  - first:
+      213: -6564198198999114260
+    second: LevelSelect-hd 1_118
+  - first:
+      213: 8609202688921874743
+    second: LevelSelect-hd 1_119
+  - first:
+      213: 5052427794483764265
+    second: LevelSelect-hd 1_120
+  - first:
+      213: 5176330236818586238
+    second: LevelSelect-hd 1_121
+  - first:
+      213: -9186761019963670969
+    second: LevelSelect-hd 1_122
+  - first:
+      213: 4488518490625799751
+    second: LevelSelect-hd 1_123
+  - first:
+      213: -8980369324893952395
+    second: LevelSelect-hd 1_124
+  - first:
+      213: 8414739541529071300
+    second: LevelSelect-hd 1_125
+  - first:
+      213: 2968598935794368688
+    second: LevelSelect-hd 1_126
+  - first:
+      213: 3117794229584009932
+    second: LevelSelect-hd 1_127
+  - first:
+      213: 5753929294599010401
+    second: LevelSelect-hd 1_128
+  - first:
+      213: -3089103102064000176
+    second: LevelSelect-hd 1_129
+  - first:
+      213: -5480043647217802965
+    second: LevelSelect-hd 1_130
+  - first:
+      213: 7460127338948451058
+    second: LevelSelect-hd 1_131
+  - first:
+      213: -644321364890909974
+    second: LevelSelect-hd 1_132
+  - first:
+      213: 1295458980817451345
+    second: LevelSelect-hd 1_133
+  - first:
+      213: -3845308711717741092
+    second: LevelSelect-hd 1_134
+  - first:
+      213: -1064169036985279073
+    second: LevelSelect-hd 1_135
+  - first:
+      213: 8592224428878200378
+    second: LevelSelect-hd 1_136
+  - first:
+      213: 3776931762693115652
+    second: LevelSelect-hd 1_137
+  - first:
+      213: -2956142337395332028
+    second: LevelSelect-hd 1_138
+  - first:
+      213: -9209437050845116276
+    second: LevelSelect-hd 1_139
+  - first:
+      213: 9162724588477535549
+    second: LevelSelect-hd 1_140
+  - first:
+      213: -8854559597978811947
+    second: LevelSelect-hd 1_141
+  - first:
+      213: -8229439088140427646
+    second: LevelSelect-hd 1_142
+  - first:
+      213: 5042851571848463462
+    second: LevelSelect-hd 1_143
+  - first:
+      213: -6177006065418072695
+    second: LevelSelect-hd 1_144
+  - first:
+      213: -3620691184400815461
+    second: LevelSelect-hd 1_145
+  - first:
+      213: -2203996441490855501
+    second: LevelSelect-hd 1_146
+  - first:
+      213: -8387681924426228223
+    second: LevelSelect-hd 1_147
+  - first:
+      213: 4641976909816251086
+    second: LevelSelect-hd 1_148
+  - first:
+      213: 5567132146280603108
+    second: LevelSelect-hd 1_149
+  - first:
+      213: 6841089782188420455
+    second: LevelSelect-hd 1_150
+  - first:
+      213: 4156740705151970615
+    second: LevelSelect-hd 1_151
+  - first:
+      213: -8043471978487388148
+    second: LevelSelect-hd 1_152
+  - first:
+      213: -3922545186129860305
+    second: LevelSelect-hd 1_153
+  - first:
+      213: 5069587706068794922
+    second: LevelSelect-hd 1_154
+  - first:
+      213: -1433413199218516083
+    second: LevelSelect-hd 1_155
+  - first:
+      213: -6186675552408494232
+    second: LevelSelect-hd 1_156
+  - first:
+      213: 735249308842342599
+    second: LevelSelect-hd 1_157
+  - first:
+      213: 5868394578390934267
+    second: LevelSelect-hd 1_158
+  - first:
+      213: 533502668780089908
+    second: LevelSelect-hd 1_159
+  - first:
+      213: 4045782137937276874
+    second: LevelSelect-hd 1_160
+  - first:
+      213: -8904287606946616700
+    second: LevelSelect-hd 1_161
+  - first:
+      213: 2753736557218687176
+    second: LevelSelect-hd 1_162
+  - first:
+      213: 6528996211876609595
+    second: LevelSelect-hd 1_163
+  - first:
+      213: -350639129415597363
+    second: LevelSelect-hd 1_164
+  - first:
+      213: -6523195421642418552
+    second: LevelSelect-hd 1_165
+  - first:
+      213: 8412595576123337938
+    second: LevelSelect-hd 1_166
+  - first:
+      213: -7921013518657807611
+    second: LevelSelect-hd 1_167
+  - first:
+      213: -8088590471585406527
+    second: LevelSelect-hd 1_168
+  - first:
+      213: 3298545700410640161
+    second: LevelSelect-hd 1_169
+  - first:
+      213: -8948721989480371925
+    second: LevelSelect-hd 1_170
+  - first:
+      213: 8970617012023249112
+    second: LevelSelect-hd 1_171
+  - first:
+      213: -7392488087526677373
+    second: LevelSelect-hd 1_172
+  - first:
+      213: -2842506737078443473
+    second: LevelSelect-hd 1_173
+  - first:
+      213: -5492494278830905426
+    second: LevelSelect-hd 1_174
+  - first:
+      213: -6299740749347142373
+    second: LevelSelect-hd 1_175
+  - first:
+      213: -1438874632432704273
+    second: LevelSelect-hd 1_176
+  - first:
+      213: 8302286171400922014
+    second: LevelSelect-hd 1_177
+  - first:
+      213: -1140538446271867743
+    second: LevelSelect-hd 1_178
+  - first:
+      213: 9213922245101443789
+    second: LevelSelect-hd 1_179
+  - first:
+      213: 1182953884764529949
+    second: LevelSelect-hd 1_180
+  - first:
+      213: 943879097561319936
+    second: LevelSelect-hd 1_181
+  - first:
+      213: 8112043476998863503
+    second: LevelSelect-hd 1_182
+  - first:
+      213: 3456056946322293291
+    second: LevelSelect-hd 1_183
+  - first:
+      213: 4938576821231433724
+    second: LevelSelect-hd 1_184
+  - first:
+      213: 4143709490704580921
+    second: LevelSelect-hd 1_185
+  - first:
+      213: -6401854380940964680
+    second: LevelSelect-hd 1_186
+  - first:
+      213: 1989867621520234967
+    second: LevelSelect-hd 1_187
+  - first:
+      213: -223053300033394358
+    second: LevelSelect-hd 1_188
+  - first:
+      213: 3892255888810057875
+    second: LevelSelect-hd 1_189
+  - first:
+      213: -7474559072344336556
+    second: LevelSelect-hd 1_190
+  - first:
+      213: 7121740280390270153
+    second: LevelSelect-hd 1_191
+  - first:
+      213: 645801716835539723
+    second: LevelSelect-hd 1_192
+  - first:
+      213: 7704820717220026174
+    second: LevelSelect-hd 1_193
+  - first:
+      213: -1764581675452908892
+    second: LevelSelect-hd 1_194
+  - first:
+      213: -8831132042621263490
+    second: LevelSelect-hd 1_195
+  - first:
+      213: -3197744228234140175
+    second: LevelSelect-hd 1_196
+  - first:
+      213: -5936752650359058618
+    second: LevelSelect-hd 1_197
+  - first:
+      213: -6196544219213477323
+    second: LevelSelect-hd 1_198
+  - first:
+      213: -1809423900183948847
+    second: LevelSelect-hd 1_199
+  - first:
+      213: 6175768725537042217
+    second: LevelSelect-hd 1_200
+  - first:
+      213: -4804947110330960537
+    second: LevelSelect-hd 1_201
+  - first:
+      213: 6460954077131210648
+    second: LevelSelect-hd 1_202
+  - first:
+      213: -3360933924014326899
+    second: LevelSelect-hd 1_203
+  - first:
+      213: 945404690168959610
+    second: LevelSelect-hd 1_204
+  - first:
+      213: 1809417173666447824
+    second: LevelSelect-hd 1_205
+  - first:
+      213: -8290518611271842472
+    second: LevelSelect-hd 1_206
+  - first:
+      213: 627608582266580706
+    second: LevelSelect-hd 1_207
+  - first:
+      213: 3937192168309054134
+    second: LevelSelect-hd 1_208
+  - first:
+      213: 6520568922337501034
+    second: LevelSelect-hd 1_209
+  - first:
+      213: 7686275921123059490
+    second: LevelSelect-hd 1_210
+  - first:
+      213: 8030632849766166646
+    second: LevelSelect-hd 1_211
+  - first:
+      213: 365707359949273366
+    second: LevelSelect-hd 1_212
+  - first:
+      213: -5929920198116974132
+    second: LevelSelect-hd 1_213
+  - first:
+      213: 1001757456274898582
+    second: LevelSelect-hd 1_214
+  - first:
+      213: -6061290207583394007
+    second: LevelSelect-hd 1_215
+  - first:
+      213: -7179629519411168829
+    second: LevelSelect-hd 1_216
+  - first:
+      213: 7432192037820219289
+    second: LevelSelect-hd 1_217
+  - first:
+      213: 8869096039485523892
+    second: LevelSelect-hd 1_218
+  - first:
+      213: 7507310799375233370
+    second: LevelSelect-hd 1_219
+  - first:
+      213: -3215214624288641374
+    second: LevelSelect-hd 1_220
+  - first:
+      213: 7229356582237407833
+    second: LevelSelect-hd 1_221
+  - first:
+      213: -8871150868880732314
+    second: LevelSelect-hd 1_222
+  - first:
+      213: -2813535004103988769
+    second: LevelSelect-hd 1_223
+  - first:
+      213: 1247754080013213177
+    second: LevelSelect-hd 1_224
+  - first:
+      213: -1666806565663579631
+    second: LevelSelect-hd 1_225
+  - first:
+      213: 3695998156805912555
+    second: LevelSelect-hd 1_226
+  - first:
+      213: -4131826181687747936
+    second: LevelSelect-hd 1_227
+  - first:
+      213: -7131211565410834233
+    second: LevelSelect-hd 1_228
+  - first:
+      213: 8267168223624297963
+    second: LevelSelect-hd 1_229
+  - first:
+      213: -6978943749855338919
+    second: LevelSelect-hd 1_230
+  - first:
+      213: -2125000597336919950
+    second: LevelSelect-hd 1_231
+  - first:
+      213: 8652407024326694812
+    second: LevelSelect-hd 1_232
+  - first:
+      213: -5067109214016029916
+    second: LevelSelect-hd 1_233
+  - first:
+      213: -1607473912064527278
+    second: LevelSelect-hd 1_234
+  - first:
+      213: -7096449824644433119
+    second: LevelSelect-hd 1_235
+  - first:
+      213: -3346080916940740899
+    second: LevelSelect-hd 1_236
+  - first:
+      213: 4516034999269807115
+    second: LevelSelect-hd 1_237
+  - first:
+      213: -2397846202461118973
+    second: LevelSelect-hd 1_238
+  - first:
+      213: -5423794322357970400
+    second: LevelSelect-hd 1_239
+  - first:
+      213: 6117261521738471501
+    second: LevelSelect-hd 1_240
+  - first:
+      213: -1923173217742626096
+    second: LevelSelect-hd 1_241
+  - first:
+      213: 1832181360565533069
+    second: LevelSelect-hd 1_242
+  - first:
+      213: -8088074791631569906
+    second: LevelSelect-hd 1_243
+  - first:
+      213: -7559748063094302865
+    second: LevelSelect-hd 1_244
+  - first:
+      213: -2860178643266844270
+    second: LevelSelect-hd 1_245
+  - first:
+      213: -6017207761882165693
+    second: LevelSelect-hd 1_246
+  - first:
+      213: -6758601859002970308
+    second: LevelSelect-hd 1_247
+  - first:
+      213: -3804989578409568460
+    second: LevelSelect-hd 1_248
+  - first:
+      213: 998969726919161283
+    second: LevelSelect-hd 1_249
+  - first:
+      213: 170854215104335857
+    second: LevelSelect-hd 1_250
+  - first:
+      213: -7627588416085000050
+    second: LevelSelect-hd 1_251
+  - first:
+      213: -2908510801835470658
+    second: LevelSelect-hd 1_252
+  - first:
+      213: -1185769185444997924
+    second: LevelSelect-hd 1_253
+  - first:
+      213: -5463236919603812577
+    second: LevelSelect-hd 1_254
+  - first:
+      213: -1272286678936788912
+    second: LevelSelect-hd 1_255
+  - first:
+      213: -432744282837988563
+    second: LevelSelect-hd 1_256
+  - first:
+      213: -3912492949174969208
+    second: LevelSelect-hd 1_257
+  - first:
+      213: 7341997796302112545
+    second: LevelSelect-hd 1_258
+  - first:
+      213: 2679768594306613655
+    second: LevelSelect-hd 1_259
+  - first:
+      213: 7875401270865357223
+    second: LevelSelect-hd 1_260
+  - first:
+      213: -8736061484236830703
+    second: LevelSelect-hd 1_261
+  - first:
+      213: -5769504322416376971
+    second: LevelSelect-hd 1_262
+  - first:
+      213: 8675168596689319819
+    second: LevelSelect-hd 1_263
+  - first:
+      213: 7063687225615269939
+    second: LevelSelect-hd 1_264
+  - first:
+      213: -6245465772421334352
+    second: LevelSelect-hd 1_265
+  - first:
+      213: 8897783308430343685
+    second: LevelSelect-hd 1_266
+  - first:
+      213: 9079924987423545531
+    second: LevelSelect-hd 1_267
+  - first:
+      213: 5634011419056460255
+    second: LevelSelect-hd 1_268
+  - first:
+      213: -7672586112332670864
+    second: LevelSelect-hd 1_269
+  - first:
+      213: -5152899293471950452
+    second: LevelSelect-hd 1_270
+  - first:
+      213: -5235601544793180032
+    second: LevelSelect-hd 1_271
+  - first:
+      213: 1691810804070262198
+    second: LevelSelect-hd 1_272
+  - first:
+      213: 7850041037604729385
+    second: LevelSelect-hd 1_273
+  - first:
+      213: 9127289162931682402
+    second: LevelSelect-hd 1_274
+  - first:
+      213: -3515448753534292928
+    second: LevelSelect-hd 1_275
+  - first:
+      213: -205056309178344794
+    second: LevelSelect-hd 1_276
+  - first:
+      213: 774536033032362623
+    second: LevelSelect-hd 1_277
+  - first:
+      213: -7273327599833305215
+    second: LevelSelect-hd 1_278
+  - first:
+      213: 2666802687250493336
+    second: LevelSelect-hd 1_279
+  - first:
+      213: 1883044453211942704
+    second: LevelSelect-hd 1_280
+  - first:
+      213: 1241395667288551925
+    second: LevelSelect-hd 1_281
+  - first:
+      213: -3181025355448757812
+    second: LevelSelect-hd 1_282
+  - first:
+      213: -7258504988581104289
+    second: LevelSelect-hd 1_283
+  - first:
+      213: 7912983663344083638
+    second: LevelSelect-hd 1_284
+  - first:
+      213: 7258510148963829053
+    second: LevelSelect-hd 1_285
+  - first:
+      213: -8474994673238586716
+    second: LevelSelect-hd 1_286
+  - first:
+      213: -1523532428193110048
+    second: LevelSelect-hd 1_287
+  - first:
+      213: 2246463511792419698
+    second: LevelSelect-hd 1_288
+  - first:
+      213: -545380030857880766
+    second: LevelSelect-hd 1_289
+  - first:
+      213: 237536409123523183
+    second: LevelSelect-hd 1_290
+  - first:
+      213: -996866612359061505
+    second: LevelSelect-hd 1_291
+  - first:
+      213: -7314795132751369173
+    second: LevelSelect-hd 1_292
+  - first:
+      213: 8632040058050393239
+    second: LevelSelect-hd 1_293
+  - first:
+      213: -8255937721796194030
+    second: LevelSelect-hd 1_294
+  - first:
+      213: 8131330192226040550
+    second: LevelSelect-hd 1_295
+  - first:
+      213: 3221392904995869302
+    second: LevelSelect-hd 1_296
+  - first:
+      213: 2119004140960192823
+    second: LevelSelect-hd 1_297
+  - first:
+      213: 1679461371605351689
+    second: LevelSelect-hd 1_298
+  - first:
+      213: 4484138981322080931
+    second: LevelSelect-hd 1_299
+  - first:
+      213: -7512097037297330654
+    second: LevelSelect-hd 1_300
+  - first:
+      213: 7963577642638256100
+    second: LevelSelect-hd 1_301
+  - first:
+      213: -6542476863497657657
+    second: LevelSelect-hd 1_302
+  - first:
+      213: -1336740201156995421
+    second: LevelSelect-hd 1_303
+  - first:
+      213: -8534571453518978651
+    second: LevelSelect-hd 1_304
+  - first:
+      213: 7895765112335038368
+    second: LevelSelect-hd 1_305
+  - first:
+      213: -8915091361466664201
+    second: LevelSelect-hd 1_306
+  - first:
+      213: -1316750314340257713
+    second: LevelSelect-hd 1_307
+  - first:
+      213: 7294950821659801603
+    second: LevelSelect-hd 1_308
+  - first:
+      213: -1958765137118834319
+    second: LevelSelect-hd 1_309
+  - first:
+      213: -8495037941392427228
+    second: LevelSelect-hd 1_310
+  - first:
+      213: -3574936975922764092
+    second: LevelSelect-hd 1_311
+  - first:
+      213: -4845521559014364077
+    second: LevelSelect-hd 1_312
+  - first:
+      213: -4061847983069099061
+    second: LevelSelect-hd 1_313
+  - first:
+      213: 7835317548550972700
+    second: LevelSelect-hd 1_314
+  - first:
+      213: -4402624003306571535
+    second: LevelSelect-hd 1_315
+  - first:
+      213: -6622057853944893722
+    second: LevelSelect-hd 1_316
+  - first:
+      213: -2135887560347594128
+    second: LevelSelect-hd 1_317
+  - first:
+      213: -3679667001503326462
+    second: LevelSelect-hd 1_318
+  - first:
+      213: -1645415847516773011
+    second: LevelSelect-hd 1_319
+  - first:
+      213: 207399564709855685
+    second: LevelSelect-hd 1_320
+  - first:
+      213: 775072796268445169
+    second: LevelSelect-hd 1_321
+  - first:
+      213: 2284590660253559206
+    second: LevelSelect-hd 1_322
+  - first:
+      213: 4900270264917652003
+    second: LevelSelect-hd 1_323
+  - first:
+      213: -16786859016880510
+    second: LevelSelect-hd 1_324
+  - first:
+      213: 375677460844582859
+    second: LevelSelect-hd 1_325
+  - first:
+      213: -3087524913956847315
+    second: LevelSelect-hd 1_326
+  - first:
+      213: -19200244956113445
+    second: LevelSelect-hd 1_327
+  - first:
+      213: 8095355409330215767
+    second: LevelSelect-hd 1_328
+  - first:
+      213: -2286608012781701298
+    second: LevelSelect-hd 1_329
+  - first:
+      213: 2326485873247488684
+    second: LevelSelect-hd 1_330
+  - first:
+      213: 3969739312927212968
+    second: LevelSelect-hd 1_331
+  - first:
+      213: 7056285257246651269
+    second: LevelSelect-hd 1_332
+  - first:
+      213: 2196804787747787244
+    second: LevelSelect-hd 1_333
+  - first:
+      213: 3739313429749690133
+    second: LevelSelect-hd 1_334
+  - first:
+      213: 1551260256220564602
+    second: LevelSelect-hd 1_335
+  - first:
+      213: 8629615558833752849
+    second: LevelSelect-hd 1_336
+  - first:
+      213: 5123534703065510676
+    second: LevelSelect-hd 1_337
+  - first:
+      213: 1701157628980212311
+    second: LevelSelect-hd 1_338
+  - first:
+      213: -8244608985733573508
+    second: LevelSelect-hd 1_339
+  - first:
+      213: -3940537459186671009
+    second: LevelSelect-hd 1_340
+  - first:
+      213: 1211880892313316172
+    second: LevelSelect-hd 1_341
+  - first:
+      213: -4019051719970278267
+    second: LevelSelect-hd 1_342
+  - first:
+      213: -6005269296803442362
+    second: LevelSelect-hd 1_343
+  - first:
+      213: -3894696697369577625
+    second: LevelSelect-hd 1_344
+  - first:
+      213: 5738381906354435504
+    second: LevelSelect-hd 1_345
+  - first:
+      213: 6858089227723740247
+    second: LevelSelect-hd 1_346
+  - first:
+      213: -6462407999029701963
+    second: LevelSelect-hd 1_347
+  - first:
+      213: 2482687787541782011
+    second: LevelSelect-hd 1_348
+  - first:
+      213: 2648534684761466381
+    second: LevelSelect-hd 1_349
+  - first:
+      213: -1151807842017758059
+    second: LevelSelect-hd 1_350
+  - first:
+      213: -1764916847426586577
+    second: LevelSelect-hd 1_351
+  - first:
+      213: -7130770767944953454
+    second: LevelSelect-hd 1_352
+  - first:
+      213: -6889611586107732499
+    second: LevelSelect-hd 1_353
+  - first:
+      213: -3638683162698404088
+    second: LevelSelect-hd 1_354
+  - first:
+      213: 2788567508392603181
+    second: LevelSelect-hd 1_355
+  - first:
+      213: 5899033079154310537
+    second: LevelSelect-hd 1_356
+  - first:
+      213: 927776990637620550
+    second: LevelSelect-hd 1_357
+  - first:
+      213: 1371417309870390425
+    second: LevelSelect-hd 1_358
+  - first:
+      213: -6753680096604784765
+    second: LevelSelect-hd 1_359
+  - first:
+      213: 8433696891957907656
+    second: LevelSelect-hd 1_360
+  - first:
+      213: 6179763362203628157
+    second: LevelSelect-hd 1_361
+  - first:
+      213: 4946566062278704888
+    second: LevelSelect-hd 1_362
+  - first:
+      213: -8504189393719432637
+    second: LevelSelect-hd 1_363
+  - first:
+      213: 3826405551148310730
+    second: LevelSelect-hd 1_364
+  - first:
+      213: 175769575119990394
+    second: LevelSelect-hd 1_365
+  - first:
+      213: 1736828526387559950
+    second: LevelSelect-hd 1_366
+  - first:
+      213: 8058141433910757987
+    second: LevelSelect-hd 1_367
+  - first:
+      213: 300392840833906550
+    second: LevelSelect-hd 1_368
+  - first:
+      213: -3341642149205976339
+    second: LevelSelect-hd 1_369
+  - first:
+      213: -4120443583333752571
+    second: LevelSelect-hd 1_370
+  - first:
+      213: -7205586822141925302
+    second: LevelSelect-hd 1_371
+  - first:
+      213: -3571334988871649888
+    second: LevelSelect-hd 1_372
+  - first:
+      213: 5058015844484357213
+    second: LevelSelect-hd 1_373
+  - first:
+      213: 8130717869413853400
+    second: LevelSelect-hd 1_374
+  - first:
+      213: -4211705363860561950
+    second: LevelSelect-hd 1_375
+  - first:
+      213: -6480736822004950083
+    second: LevelSelect-hd 1_376
+  - first:
+      213: 7207397672977967849
+    second: LevelSelect-hd 1_377
+  - first:
+      213: 6952365619657524002
+    second: LevelSelect-hd 1_378
+  - first:
+      213: 5848612486074745034
+    second: LevelSelect-hd 1_379
+  - first:
+      213: 4997642487012748382
+    second: LevelSelect-hd 1_380
+  - first:
+      213: -8349886551997822910
+    second: LevelSelect-hd 1_381
+  - first:
+      213: 6484413407932158980
+    second: LevelSelect-hd 1_382
+  - first:
+      213: -1724397040228654516
+    second: LevelSelect-hd 1_383
+  - first:
+      213: -5580133938311332544
+    second: LevelSelect-hd 1_384
+  - first:
+      213: 4197700207123126576
+    second: LevelSelect-hd 1_385
+  - first:
+      213: 7683618926398776812
+    second: LevelSelect-hd 1_386
+  - first:
+      213: 1425824049007732578
+    second: LevelSelect-hd 1_387
+  - first:
+      213: 1593853038255295478
+    second: LevelSelect-hd 1_388
+  - first:
+      213: -8686527926155181858
+    second: LevelSelect-hd 1_389
+  - first:
+      213: -2609514364507501276
+    second: LevelSelect-hd 1_390
+  - first:
+      213: -5323918340081794519
+    second: LevelSelect-hd 1_391
+  - first:
+      213: -3603721793028293715
+    second: LevelSelect-hd 1_392
+  - first:
+      213: 3618186568429585890
+    second: LevelSelect-hd 1_393
+  - first:
+      213: 4100456428259172977
+    second: LevelSelect-hd 1_394
+  - first:
+      213: 5342113553623209336
+    second: LevelSelect-hd 1_395
+  - first:
+      213: 4413368007752861399
+    second: LevelSelect-hd 1_396
+  - first:
+      213: 1931612440104579075
+    second: LevelSelect-hd 1_397
+  - first:
+      213: 6528547658295900987
+    second: LevelSelect-hd 1_398
+  - first:
+      213: 503865728614883961
+    second: LevelSelect-hd 1_399
+  - first:
+      213: 4894795444277478381
+    second: LevelSelect-hd 1_400
+  - first:
+      213: -1902341426579536355
+    second: LevelSelect-hd 1_401
+  - first:
+      213: 8129227131921977192
+    second: LevelSelect-hd 1_402
+  - first:
+      213: 683940639755855878
+    second: LevelSelect-hd 1_403
+  - first:
+      213: -8137695957693672533
+    second: LevelSelect-hd 1_404
+  - first:
+      213: -2499250221952823794
+    second: LevelSelect-hd 1_405
+  - first:
+      213: -4421056021528109407
+    second: LevelSelect-hd 1_406
+  - first:
+      213: -1097970101591832262
+    second: LevelSelect-hd 1_407
+  - first:
+      213: -6872710624048510567
+    second: LevelSelect-hd 1_408
+  - first:
+      213: -6502403062631762174
+    second: LevelSelect-hd 1_409
+  - first:
+      213: 4606269738882775258
+    second: LevelSelect-hd 1_410
+  - first:
+      213: 6679963959494442801
+    second: LevelSelect-hd 1_411
+  - first:
+      213: 9088707062004139471
+    second: LevelSelect-hd 1_412
+  - first:
+      213: 8106758471794160865
+    second: LevelSelect-hd 1_413
+  - first:
+      213: -3044194130947197248
+    second: LevelSelect-hd 1_414
+  - first:
+      213: 8647297723804687511
+    second: LevelSelect-hd 1_415
+  - first:
+      213: 1631545694224396551
+    second: LevelSelect-hd 1_416
+  - first:
+      213: 5994110772759921066
+    second: LevelSelect-hd 1_417
+  - first:
+      213: 6450605029252882877
+    second: LevelSelect-hd 1_418
+  - first:
+      213: 238662397545597346
+    second: LevelSelect-hd 1_419
+  - first:
+      213: 103686742614211887
+    second: LevelSelect-hd 1_420
+  - first:
+      213: 7307563449068864270
+    second: LevelSelect-hd 1_421
+  - first:
+      213: 7271317956094718378
+    second: LevelSelect-hd 1_422
+  - first:
+      213: 2638694587079423038
+    second: LevelSelect-hd 1_423
+  - first:
+      213: 1400218826090001102
+    second: LevelSelect-hd 1_424
+  - first:
+      213: 5661254953412635542
+    second: LevelSelect-hd 1_425
+  - first:
+      213: 2611275095635397052
+    second: LevelSelect-hd 1_426
+  - first:
+      213: 8137635735746706235
+    second: LevelSelect-hd 1_427
+  - first:
+      213: -2395284091682960892
+    second: LevelSelect-hd 1_428
+  - first:
+      213: 1120119782328268973
+    second: LevelSelect-hd 1_429
+  - first:
+      213: 917321867509364348
+    second: LevelSelect-hd 1_430
+  - first:
+      213: -3401499430607865906
+    second: LevelSelect-hd 1_431
+  - first:
+      213: 1933042646014285924
+    second: LevelSelect-hd 1_432
+  - first:
+      213: 6846553104806814776
+    second: LevelSelect-hd 1_433
+  - first:
+      213: -8152892228135806764
+    second: LevelSelect-hd 1_434
+  - first:
+      213: -195470518246127924
+    second: LevelSelect-hd 1_435
+  - first:
+      213: 5246566521377952623
+    second: LevelSelect-hd 1_436
+  - first:
+      213: 7359724031645911775
+    second: LevelSelect-hd 1_437
+  - first:
+      213: -803210172547250490
+    second: LevelSelect-hd 1_438
+  - first:
+      213: -6713388216189938266
+    second: LevelSelect-hd 1_439
+  - first:
+      213: 3617313372717467081
+    second: LevelSelect-hd 1_440
+  - first:
+      213: -7521913521741483887
+    second: LevelSelect-hd 1_441
+  - first:
+      213: -8830787742412044663
+    second: LevelSelect-hd 1_442
+  - first:
+      213: 4846301831437071419
+    second: LevelSelect-hd 1_443
+  - first:
+      213: -4304997829655318461
+    second: LevelSelect-hd 1_444
+  - first:
+      213: 6497226024586125262
+    second: LevelSelect-hd 1_445
+  - first:
+      213: 8875543925685332067
+    second: LevelSelect-hd 1_446
+  - first:
+      213: -5747072118384093899
+    second: LevelSelect-hd 1_447
+  - first:
+      213: 4223641937714050815
+    second: LevelSelect-hd 1_448
+  - first:
+      213: -5226582565449091188
+    second: LevelSelect-hd 1_449
+  - first:
+      213: 1071592003638425540
+    second: LevelSelect-hd 1_450
+  - first:
+      213: -6398871301630440560
+    second: LevelSelect-hd 1_451
+  - first:
+      213: -5044651410103205529
+    second: LevelSelect-hd 1_452
+  - first:
+      213: 8771601780703743228
+    second: LevelSelect-hd 1_453
+  - first:
+      213: 7622382191879908320
+    second: LevelSelect-hd 1_454
+  - first:
+      213: 5643383566876570931
+    second: LevelSelect-hd 1_455
+  - first:
+      213: 2629229527276364977
+    second: LevelSelect-hd 1_456
+  - first:
+      213: -5745846094177282464
+    second: LevelSelect-hd 1_457
+  - first:
+      213: 2120354290119510690
+    second: LevelSelect-hd 1_458
+  - first:
+      213: 70699095993573037
+    second: LevelSelect-hd 1_459
+  - first:
+      213: 4859663191021876984
+    second: LevelSelect-hd 1_460
+  - first:
+      213: -8097569674476190817
+    second: LevelSelect-hd 1_461
+  - first:
+      213: -7677811829499787143
+    second: LevelSelect-hd 1_462
+  - first:
+      213: 2122496178089781549
+    second: LevelSelect-hd 1_463
+  - first:
+      213: -517510208386471401
+    second: LevelSelect-hd 1_464
+  - first:
+      213: -3458519933794811353
+    second: LevelSelect-hd 1_465
+  - first:
+      213: 2409302401271180582
+    second: LevelSelect-hd 1_466
+  - first:
+      213: -4336158220985823784
+    second: LevelSelect-hd 1_467
+  - first:
+      213: 1785299392815367561
+    second: LevelSelect-hd 1_468
+  - first:
+      213: 6685617563532991328
+    second: LevelSelect-hd 1_469
+  - first:
+      213: -355575682717935806
+    second: LevelSelect-hd 1_470
+  - first:
+      213: 4702414203771246751
+    second: LevelSelect-hd 1_471
+  - first:
+      213: 939263402965199985
+    second: LevelSelect-hd 1_472
+  - first:
+      213: 4473300129520332023
+    second: LevelSelect-hd 1_473
+  - first:
+      213: -4107538076591073802
+    second: LevelSelect-hd 1_474
+  - first:
+      213: -6344515301572415539
+    second: LevelSelect-hd 1_475
+  - first:
+      213: -1494536271676803885
+    second: LevelSelect-hd 1_476
+  - first:
+      213: -187911367073596323
+    second: LevelSelect-hd 1_477
+  - first:
+      213: -7050102783139937810
+    second: LevelSelect-hd 1_478
+  - first:
+      213: 3412983397814131239
+    second: LevelSelect-hd 1_479
+  - first:
+      213: 7645085850773396175
+    second: LevelSelect-hd 1_480
+  - first:
+      213: -4975525552881705239
+    second: LevelSelect-hd 1_481
+  - first:
+      213: 280122831248180874
+    second: LevelSelect-hd 1_482
+  - first:
+      213: 1096239377731387903
+    second: LevelSelect-hd 1_483
+  - first:
+      213: 9074509144699888179
+    second: LevelSelect-hd 1_484
+  - first:
+      213: -696280235058110671
+    second: LevelSelect-hd 1_485
+  - first:
+      213: -6616400309423611078
+    second: LevelSelect-hd 1_486
+  - first:
+      213: 6089540473896916597
+    second: LevelSelect-hd 1_487
+  - first:
+      213: -2057283018495576282
+    second: LevelSelect-hd 1_488
+  - first:
+      213: -1130615715404115396
+    second: LevelSelect-hd 1_489
+  - first:
+      213: -2212764221271794228
+    second: LevelSelect-hd 1_490
+  - first:
+      213: -4582576624581157594
+    second: LevelSelect-hd 1_491
+  - first:
+      213: -1181788836322749511
+    second: LevelSelect-hd 1_492
+  - first:
+      213: 1932294039855263580
+    second: LevelSelect-hd 1_493
+  - first:
+      213: -7705570048962051623
+    second: LevelSelect-hd 1_494
+  - first:
+      213: 4184008462647947906
+    second: LevelSelect-hd 1_495
+  - first:
+      213: -868924440589344470
+    second: LevelSelect-hd 1_496
+  - first:
+      213: -4571302759976370397
+    second: LevelSelect-hd 1_497
+  - first:
+      213: -1349929621209780643
+    second: LevelSelect-hd 1_498
+  - first:
+      213: 3313443369189707415
+    second: LevelSelect-hd 1_499
+  - first:
+      213: 5353774966999427695
+    second: LevelSelect-hd 1_500
+  - first:
+      213: -5560088524059322873
+    second: LevelSelect-hd 1_501
+  - first:
+      213: 3450729528822814569
+    second: LevelSelect-hd 1_502
+  - first:
+      213: 6536945681286085928
+    second: LevelSelect-hd 1_503
+  - first:
+      213: 916714633261552859
+    second: LevelSelect-hd 1_504
+  - first:
+      213: 778332085524050284
+    second: LevelSelect-hd 1_505
+  - first:
+      213: 8202452795700156778
+    second: LevelSelect-hd 1_506
+  - first:
+      213: -5030709518422660583
+    second: LevelSelect-hd 1_507
+  - first:
+      213: -6654980377957373636
+    second: LevelSelect-hd 1_508
+  - first:
+      213: -5132728907946411615
+    second: LevelSelect-hd 1_509
+  - first:
+      213: 8558557698166114123
+    second: LevelSelect-hd 1_510
+  - first:
+      213: -5148192853768172461
+    second: LevelSelect-hd 1_511
+  - first:
+      213: -3102392161051499253
+    second: LevelSelect-hd 1_512
+  - first:
+      213: -6411210288757712072
+    second: LevelSelect-hd 1_513
+  - first:
+      213: 7944995997958527624
+    second: LevelSelect-hd 1_514
+  - first:
+      213: 7358359317383934674
+    second: LevelSelect-hd 1_515
+  - first:
+      213: 4572496613607300733
+    second: LevelSelect-hd 1_516
+  - first:
+      213: 2832304748807061368
+    second: LevelSelect-hd 1_517
+  - first:
+      213: 3113921861169104094
+    second: LevelSelect-hd 1_518
+  - first:
+      213: -230733745161877107
+    second: LevelSelect-hd 1_519
+  - first:
+      213: 3545827833203184605
+    second: LevelSelect-hd 1_520
+  - first:
+      213: 7706814332671707806
+    second: LevelSelect-hd 1_521
+  - first:
+      213: 782507260750409274
+    second: LevelSelect-hd 1_522
+  - first:
+      213: -840721075572205699
+    second: LevelSelect-hd 1_523
+  - first:
+      213: -3749014259567718164
+    second: LevelSelect-hd 1_524
+  - first:
+      213: 7139447932117294217
+    second: LevelSelect-hd 1_525
+  - first:
+      213: 5142255307405513202
+    second: LevelSelect-hd 1_526
+  - first:
+      213: 2848369212893352748
+    second: LevelSelect-hd 1_527
+  - first:
+      213: 8301791166005298060
+    second: LevelSelect-hd 1_528
+  - first:
+      213: 762025096402761335
+    second: LevelSelect-hd 1_529
+  - first:
+      213: 3986253861739903009
+    second: LevelSelect-hd 1_530
+  - first:
+      213: -4696235777845499175
+    second: LevelSelect-hd 1_531
+  - first:
+      213: -2020066297627179629
+    second: LevelSelect-hd 1_532
+  - first:
+      213: -7210400477226751479
+    second: LevelSelect-hd 1_533
+  - first:
+      213: 84425310319508914
+    second: LevelSelect-hd 1_534
+  - first:
+      213: -2887217544477255568
+    second: LevelSelect-hd 1_535
+  - first:
+      213: -5098769549431102238
+    second: LevelSelect-hd 1_536
+  - first:
+      213: -625544363795223607
+    second: LevelSelect-hd 1_537
+  - first:
+      213: -7305257982551425420
+    second: LevelSelect-hd 1_538
+  - first:
+      213: -5003291751610899727
+    second: LevelSelect-hd 1_539
+  - first:
+      213: 3151035373910227119
+    second: LevelSelect-hd 1_540
+  - first:
+      213: 1470764944717193130
+    second: LevelSelect-hd 1_541
+  - first:
+      213: -3102224351103101614
+    second: LevelSelect-hd 1_542
+  - first:
+      213: 3810066742402450282
+    second: LevelSelect-hd 1_543
+  - first:
+      213: -5604761119629062675
+    second: LevelSelect-hd 1_544
+  - first:
+      213: -1409182146940589504
+    second: LevelSelect-hd 1_545
+  - first:
+      213: 3587124037302772075
+    second: LevelSelect-hd 1_546
+  - first:
+      213: -4582920540983497889
+    second: LevelSelect-hd 1_547
+  - first:
+      213: -5545051518482828821
+    second: LevelSelect-hd 1_548
+  - first:
+      213: 654208657558171916
+    second: LevelSelect-hd 1_549
+  - first:
+      213: -1196235300627413120
+    second: LevelSelect-hd 1_550
+  - first:
+      213: 1965278344993381814
+    second: LevelSelect-hd 1_551
+  - first:
+      213: -8391496819180671914
+    second: LevelSelect-hd 1_552
+  - first:
+      213: 3956447805795797519
+    second: LevelSelect-hd 1_553
+  - first:
+      213: -2166423007789842810
+    second: LevelSelect-hd 1_554
+  - first:
+      213: -3954439130812429106
+    second: LevelSelect-hd 1_555
+  - first:
+      213: -1764570233008871466
+    second: LevelSelect-hd 1_556
+  - first:
+      213: -3574179185813175754
+    second: LevelSelect-hd 1_557
+  - first:
+      213: 8104757206481181262
+    second: LevelSelect-hd 1_558
+  - first:
+      213: -6345726356384278214
+    second: LevelSelect-hd 1_559
+  - first:
+      213: 4784054115231303880
+    second: LevelSelect-hd 1_560
+  - first:
+      213: -7758102898883708272
+    second: LevelSelect-hd 1_561
+  - first:
+      213: 2236834220309590643
+    second: LevelSelect-hd 1_562
+  - first:
+      213: 2094632821092523399
+    second: LevelSelect-hd 1_563
+  - first:
+      213: 2877933573039269080
+    second: LevelSelect-hd 1_564
+  - first:
+      213: 390575732557914518
+    second: LevelSelect-hd 1_565
+  - first:
+      213: -6730868052185736638
+    second: LevelSelect-hd 1_566
+  - first:
+      213: 1454950479356176601
+    second: LevelSelect-hd 1_567
+  - first:
+      213: 6511708307603280548
+    second: LevelSelect-hd 1_568
+  - first:
+      213: -4578737962376361875
+    second: LevelSelect-hd 1_569
+  - first:
+      213: -4777012841094627417
+    second: LevelSelect-hd 1_570
+  - first:
+      213: 3924831273549617559
+    second: LevelSelect-hd 1_571
+  - first:
+      213: -3088981209725461708
+    second: LevelSelect-hd 1_572
+  - first:
+      213: 963822610308953188
+    second: LevelSelect-hd 1_573
+  - first:
+      213: 5699652368764618694
+    second: LevelSelect-hd 1_574
+  - first:
+      213: 2240041652855722350
+    second: LevelSelect-hd 1_575
+  - first:
+      213: -8713370259293869286
+    second: LevelSelect-hd 1_576
+  - first:
+      213: -6831658515524310755
+    second: LevelSelect-hd 1_577
+  - first:
+      213: -3920563559460696520
+    second: LevelSelect-hd 1_578
+  - first:
+      213: 6623376261180497214
+    second: LevelSelect-hd 1_579
+  - first:
+      213: -5380301521717992448
+    second: LevelSelect-hd 1_580
+  - first:
+      213: -5922618000074583760
+    second: LevelSelect-hd 1_581
+  - first:
+      213: -5235168653018695556
+    second: LevelSelect-hd 1_582
+  - first:
+      213: -6424785628412639219
+    second: LevelSelect-hd 1_583
+  - first:
+      213: -413938210306184104
+    second: LevelSelect-hd 1_584
+  - first:
+      213: 6415874149775630637
+    second: LevelSelect-hd 1_585
+  - first:
+      213: -1043710045706218687
+    second: LevelSelect-hd 1_586
+  - first:
+      213: -5296875823506301894
+    second: LevelSelect-hd 1_587
+  - first:
+      213: -1864060670612230370
+    second: LevelSelect-hd 1_588
+  - first:
+      213: 5664727558194464966
+    second: LevelSelect-hd 1_589
+  - first:
+      213: -2547792971471561314
+    second: LevelSelect-hd 1_590
+  - first:
+      213: 8922277861564293920
+    second: LevelSelect-hd 1_591
+  - first:
+      213: 8766279320568975819
+    second: LevelSelect-hd 1_592
+  - first:
+      213: 7032984639682033067
+    second: LevelSelect-hd 1_593
+  - first:
+      213: 216571191027600843
+    second: LevelSelect-hd 1_594
+  - first:
+      213: -1609214903007217520
+    second: LevelSelect-hd 1_595
+  - first:
+      213: -6174777998648280739
+    second: LevelSelect-hd 1_596
+  - first:
+      213: -1977946020243751737
+    second: LevelSelect-hd 1_597
+  - first:
+      213: 382095398022805102
+    second: LevelSelect-hd 1_598
+  - first:
+      213: 2052384321820652190
+    second: LevelSelect-hd 1_599
+  - first:
+      213: 5190220809164318470
+    second: LevelSelect-hd 1_600
+  - first:
+      213: -7459773995752127599
+    second: LevelSelect-hd 1_601
+  - first:
+      213: 5755693065872325577
+    second: LevelSelect-hd 1_602
+  - first:
+      213: -2585270164588159931
+    second: LevelSelect-hd 1_603
+  - first:
+      213: -1004311541717135405
+    second: LevelSelect-hd 1_604
+  - first:
+      213: 6783733979202565323
+    second: LevelSelect-hd 1_605
+  - first:
+      213: 5059375205919942947
+    second: LevelSelect-hd 1_606
+  - first:
+      213: 8875560926329943135
+    second: LevelSelect-hd 1_607
+  - first:
+      213: -6625839391026973058
+    second: LevelSelect-hd 1_608
+  - first:
+      213: -366101424018074837
+    second: LevelSelect-hd 1_609
+  - first:
+      213: -3092374773093769352
+    second: LevelSelect-hd 1_610
+  - first:
+      213: 6979116829344629299
+    second: LevelSelect-hd 1_611
+  - first:
+      213: -7838612305933989108
+    second: LevelSelect-hd 1_612
+  - first:
+      213: -1162895619418733802
+    second: LevelSelect-hd 1_613
+  - first:
+      213: -8351661491111453220
+    second: LevelSelect-hd 1_614
+  - first:
+      213: -8314735323695197855
+    second: LevelSelect-hd 1_615
+  - first:
+      213: 1344444926325567480
+    second: LevelSelect-hd 1_616
+  - first:
+      213: 2012687557905128041
+    second: LevelSelect-hd 1_617
+  - first:
+      213: 2150466775932141285
+    second: LevelSelect-hd 1_618
+  - first:
+      213: -4983099456836252458
+    second: LevelSelect-hd 1_619
+  - first:
+      213: 8277579365012542152
+    second: LevelSelect-hd 1_620
+  - first:
+      213: 1154678812362973827
+    second: LevelSelect-hd 1_621
+  - first:
+      213: 3537373267887117985
+    second: LevelSelect-hd 1_622
+  - first:
+      213: -4086411852820346226
+    second: LevelSelect-hd 1_623
+  - first:
+      213: 5022549073740862477
+    second: LevelSelect-hd 1_624
+  - first:
+      213: -4571886990768465052
+    second: LevelSelect-hd 1_625
+  - first:
+      213: -4178305301082281423
+    second: LevelSelect-hd 1_626
+  - first:
+      213: 2361798208302959656
+    second: LevelSelect-hd 1_627
+  - first:
+      213: 4425534885420535668
+    second: LevelSelect-hd 1_628
+  - first:
+      213: -8439295630279515258
+    second: LevelSelect-hd 1_629
+  - first:
+      213: 3684446361339670211
+    second: LevelSelect-hd 1_630
+  - first:
+      213: -1138677859230042533
+    second: LevelSelect-hd 1_631
+  - first:
+      213: 7573415654711164364
+    second: LevelSelect-hd 1_632
+  - first:
+      213: 3878187339626417251
+    second: LevelSelect-hd 1_633
+  - first:
+      213: -5704802490696536230
+    second: LevelSelect-hd 1_634
+  - first:
+      213: -2001964525123260181
+    second: LevelSelect-hd 1_635
+  - first:
+      213: -1134444020713494655
+    second: LevelSelect-hd 1_636
+  - first:
+      213: -4740834570073496756
+    second: LevelSelect-hd 1_637
+  - first:
+      213: -4829028929510414279
+    second: LevelSelect-hd 1_638
+  - first:
+      213: -6431156834166352592
+    second: LevelSelect-hd 1_639
+  - first:
+      213: 8517719338688542316
+    second: LevelSelect-hd 1_640
+  - first:
+      213: -247681905720466125
+    second: LevelSelect-hd 1_641
+  - first:
+      213: 3249469818434680116
+    second: LevelSelect-hd 1_642
+  - first:
+      213: 5268562957150901328
+    second: LevelSelect-hd 1_643
+  - first:
+      213: 1773368806645307295
+    second: LevelSelect-hd 1_644
+  - first:
+      213: -5906524976651324382
+    second: LevelSelect-hd 1_645
+  - first:
+      213: -8579678239010886684
+    second: LevelSelect-hd 1_646
+  - first:
+      213: -6439158710193684642
+    second: LevelSelect-hd 1_647
+  - first:
+      213: 4025778637304630645
+    second: LevelSelect-hd 1_648
+  - first:
+      213: -8564658880197941575
+    second: LevelSelect-hd 1_649
+  - first:
+      213: 1855156482841575379
+    second: LevelSelect-hd 1_650
+  - first:
+      213: 3827659977584144797
+    second: LevelSelect-hd 1_651
+  - first:
+      213: 7470633102611199286
+    second: LevelSelect-hd 1_652
+  - first:
+      213: -7383767071383268011
+    second: LevelSelect-hd 1_653
+  - first:
+      213: -5109230541211224975
+    second: LevelSelect-hd 1_654
+  - first:
+      213: 5293163167568199608
+    second: LevelSelect-hd 1_655
+  - first:
+      213: 6483291063148209213
+    second: LevelSelect-hd 1_656
+  - first:
+      213: 4778747878676532900
+    second: LevelSelect-hd 1_657
+  - first:
+      213: -3075782947313112890
+    second: LevelSelect-hd 1_658
+  - first:
+      213: -155940882807510120
+    second: LevelSelect-hd 1_659
+  - first:
+      213: 5320522148932379042
+    second: LevelSelect-hd 1_660
+  - first:
+      213: 4792697900532294427
+    second: LevelSelect-hd 1_661
+  - first:
+      213: -8690373987875274210
+    second: LevelSelect-hd 1_662
+  - first:
+      213: 1223237797703647383
+    second: LevelSelect-hd 1_663
+  - first:
+      213: -6905587164632255846
+    second: LevelSelect-hd 1_664
+  - first:
+      213: 2098633978689789118
+    second: LevelSelect-hd 1_665
+  - first:
+      213: -1087236581504980583
+    second: LevelSelect-hd 1_666
+  - first:
+      213: 9056656486648147125
+    second: LevelSelect-hd 1_667
+  - first:
+      213: -206595650067775846
+    second: LevelSelect-hd 1_668
+  - first:
+      213: 2352477071984755423
+    second: LevelSelect-hd 1_669
+  - first:
+      213: -7263093256604596051
+    second: LevelSelect-hd 1_670
+  - first:
+      213: 608380040009255543
+    second: LevelSelect-hd 1_671
+  - first:
+      213: 2606044999982220262
+    second: LevelSelect-hd 1_672
+  - first:
+      213: -8068590673992944598
+    second: LevelSelect-hd 1_673
+  - first:
+      213: -459945066110738496
+    second: LevelSelect-hd 1_674
+  - first:
+      213: 1481261180218871118
+    second: LevelSelect-hd 1_675
+  - first:
+      213: 4035483844609478099
+    second: LevelSelect-hd 1_676
+  - first:
+      213: 2521063966411452446
+    second: LevelSelect-hd 1_677
+  - first:
+      213: -4191467949981671267
+    second: LevelSelect-hd 1_678
+  - first:
+      213: -946479931559696759
+    second: LevelSelect-hd 1_679
+  - first:
+      213: 3872065595005927919
+    second: LevelSelect-hd 1_680
+  - first:
+      213: 905043868973210567
+    second: LevelSelect-hd 1_681
+  - first:
+      213: -8273471363157349510
+    second: LevelSelect-hd 1_682
+  - first:
+      213: -990453293796664741
+    second: LevelSelect-hd 1_683
+  - first:
+      213: -352944454778535968
+    second: LevelSelect-hd 1_684
+  - first:
+      213: -8599294100774988398
+    second: LevelSelect-hd 1_685
+  - first:
+      213: 2370533859449262802
+    second: LevelSelect-hd 1_686
+  - first:
+      213: 4140227290352795466
+    second: LevelSelect-hd 1_687
+  - first:
+      213: 9128834454781977885
+    second: LevelSelect-hd 1_688
+  - first:
+      213: -7018446092104962723
+    second: LevelSelect-hd 1_689
+  - first:
+      213: 4901318529744953090
+    second: LevelSelect-hd 1_690
+  - first:
+      213: -4959677930599960020
+    second: LevelSelect-hd 1_691
+  - first:
+      213: 3310608862071944456
+    second: LevelSelect-hd 1_692
+  - first:
+      213: 2063669290053903412
+    second: LevelSelect-hd 1_693
+  - first:
+      213: -372298767865805715
+    second: LevelSelect-hd 1_694
+  - first:
+      213: 613103576468327127
+    second: LevelSelect-hd 1_695
+  - first:
+      213: 7740288605351931622
+    second: LevelSelect-hd 1_696
+  - first:
+      213: 1194839056449694423
+    second: LevelSelect-hd 1_697
+  - first:
+      213: -1496267387097514341
+    second: LevelSelect-hd 1_698
+  - first:
+      213: 2249821405612027758
+    second: LevelSelect-hd 1_699
+  - first:
+      213: -1350942578068059580
+    second: LevelSelect-hd 1_700
+  - first:
+      213: -2027466845802499989
+    second: LevelSelect-hd 1_701
+  - first:
+      213: 3820364573702264095
+    second: LevelSelect-hd 1_702
+  - first:
+      213: 2705904985153754147
+    second: LevelSelect-hd 1_703
+  - first:
+      213: 8528528570663750560
+    second: LevelSelect-hd 1_704
+  - first:
+      213: 3769442679758912134
+    second: LevelSelect-hd 1_705
+  - first:
+      213: -5310146599847068384
+    second: LevelSelect-hd 1_706
+  - first:
+      213: 6612923573148708193
+    second: LevelSelect-hd 1_707
+  - first:
+      213: -4806706482947571630
+    second: LevelSelect-hd 1_708
+  - first:
+      213: 182026238644338667
+    second: LevelSelect-hd 1_709
+  - first:
+      213: -8474055152869455594
+    second: LevelSelect-hd 1_710
+  - first:
+      213: -4025554027613276748
+    second: LevelSelect-hd 1_711
+  - first:
+      213: -4331795902348686907
+    second: LevelSelect-hd 1_712
+  - first:
+      213: 3232009679241185251
+    second: LevelSelect-hd 1_713
+  - first:
+      213: -423004491701338076
+    second: LevelSelect-hd 1_714
+  - first:
+      213: 4795210616814636614
+    second: LevelSelect-hd 1_715
+  - first:
+      213: 236329084089577629
+    second: LevelSelect-hd 1_716
+  - first:
+      213: -1959649182131119804
+    second: LevelSelect-hd 1_717
+  - first:
+      213: 5819799012741951697
+    second: LevelSelect-hd 1_718
+  - first:
+      213: -2449275390217105178
+    second: LevelSelect-hd 1_719
+  - first:
+      213: -1863115861234969806
+    second: LevelSelect-hd 1_720
+  - first:
+      213: 6865344775644954039
+    second: LevelSelect-hd 1_721
+  - first:
+      213: 3663159877645047212
+    second: LevelSelect-hd 1_722
+  - first:
+      213: 6593823204381163764
+    second: LevelSelect-hd 1_723
+  - first:
+      213: 8343614538591864421
+    second: LevelSelect-hd 1_724
+  - first:
+      213: 934865608172419767
+    second: LevelSelect-hd 1_725
+  - first:
+      213: -5290702653327964748
+    second: LevelSelect-hd 1_726
+  - first:
+      213: 7141544352044270876
+    second: LevelSelect-hd 1_727
+  - first:
+      213: -6553773230760548773
+    second: LevelSelect-hd 1_728
+  - first:
+      213: -7253104127710425378
+    second: LevelSelect-hd 1_729
+  - first:
+      213: -6334629585984566306
+    second: LevelSelect-hd 1_730
+  - first:
+      213: 4049579381952651463
+    second: LevelSelect-hd 1_731
+  - first:
+      213: 3328031869995744520
+    second: LevelSelect-hd 1_732
+  - first:
+      213: 4916310722677237660
+    second: LevelSelect-hd 1_733
+  - first:
+      213: 6933922185689148999
+    second: LevelSelect-hd 1_734
+  - first:
+      213: -1744254422366048029
+    second: LevelSelect-hd 1_735
+  - first:
+      213: 1547262309465424535
+    second: LevelSelect-hd 1_736
+  - first:
+      213: -2574970095264119863
+    second: LevelSelect-hd 1_737
+  - first:
+      213: 7494730986269145875
+    second: LevelSelect-hd 1_738
+  - first:
+      213: 1063591584709390151
+    second: LevelSelect-hd 1_739
+  - first:
+      213: 673962924027465103
+    second: LevelSelect-hd 1_740
+  - first:
+      213: 8356862663493732699
+    second: LevelSelect-hd 1_741
+  - first:
+      213: -3103732885054484902
+    second: LevelSelect-hd 1_742
+  - first:
+      213: -9186408870044328061
+    second: LevelSelect-hd 1_743
+  - first:
+      213: -5062041513298172369
+    second: LevelSelect-hd 1_744
+  - first:
+      213: -7869077405081071620
+    second: LevelSelect-hd 1_745
+  - first:
+      213: -7130701591385165503
+    second: LevelSelect-hd 1_746
+  - first:
+      213: 8749399867095494592
+    second: LevelSelect-hd 1_747
+  - first:
+      213: -5021854430759708813
+    second: LevelSelect-hd 1_748
+  - first:
+      213: -4659477297732416796
+    second: LevelSelect-hd 1_749
+  - first:
+      213: 6535855259218761198
+    second: LevelSelect-hd 1_750
+  - first:
+      213: 584092509687150871
+    second: LevelSelect-hd 1_751
+  - first:
+      213: 5285423560961613512
+    second: LevelSelect-hd 1_752
+  - first:
+      213: -7411202994661497048
+    second: LevelSelect-hd 1_753
+  - first:
+      213: -6027736045353300312
+    second: LevelSelect-hd 1_754
+  - first:
+      213: -7782903758305878451
+    second: LevelSelect-hd 1_755
+  - first:
+      213: 7365692879696395488
+    second: LevelSelect-hd 1_756
+  - first:
+      213: -2345620785240185882
+    second: LevelSelect-hd 1_757
+  - first:
+      213: -2683569150153061373
+    second: LevelSelect-hd 1_758
+  - first:
+      213: 5297283917016892706
+    second: LevelSelect-hd 1_759
+  - first:
+      213: 7120211344042485536
+    second: LevelSelect-hd 1_760
+  - first:
+      213: -4595821711391640886
+    second: LevelSelect-hd 1_761
+  - first:
+      213: 5532846777446052586
+    second: LevelSelect-hd 1_762
+  - first:
+      213: 2076707142334419427
+    second: LevelSelect-hd 1_763
+  - first:
+      213: 7582508453221565979
+    second: LevelSelect-hd 1_764
+  - first:
+      213: -5668335957850255484
+    second: LevelSelect-hd 1_765
+  - first:
+      213: -2158491515498933044
+    second: LevelSelect-hd 1_766
+  - first:
+      213: -4290220188299513735
+    second: LevelSelect-hd 1_767
+  - first:
+      213: 1939268661584970731
+    second: LevelSelect-hd 1_768
+  - first:
+      213: -7326008777322159365
+    second: LevelSelect-hd 1_769
+  - first:
+      213: 642184627389397362
+    second: LevelSelect-hd 1_770
+  - first:
+      213: -4489293979089342311
+    second: LevelSelect-hd 1_771
+  - first:
+      213: -7343632650591968661
+    second: LevelSelect-hd 1_772
+  - first:
+      213: 5386708835713178873
+    second: LevelSelect-hd 1_773
+  - first:
+      213: -6998225114217378372
+    second: LevelSelect-hd 1_774
+  - first:
+      213: 3846564001507365396
+    second: LevelSelect-hd 1_775
+  - first:
+      213: -3853124430670357564
+    second: LevelSelect-hd 1_776
+  - first:
+      213: 825935062136760690
+    second: LevelSelect-hd 1_777
+  - first:
+      213: -7836994529156051830
+    second: LevelSelect-hd 1_778
+  - first:
+      213: 2203368888510616899
+    second: LevelSelect-hd 1_779
+  - first:
+      213: -5285497208592208352
+    second: LevelSelect-hd 1_780
+  - first:
+      213: 4155798660618749081
+    second: LevelSelect-hd 1_781
+  - first:
+      213: 5488622633221874675
+    second: LevelSelect-hd 1_782
+  - first:
+      213: -7715157628753928869
+    second: LevelSelect-hd 1_783
+  - first:
+      213: 4260719817598562549
+    second: LevelSelect-hd 1_784
+  - first:
+      213: 8860954277204057373
+    second: LevelSelect-hd 1_785
+  - first:
+      213: -1663387976730385167
+    second: LevelSelect-hd 1_786
+  - first:
+      213: 6109486677967046472
+    second: LevelSelect-hd 1_787
+  - first:
+      213: 2713478160660511846
+    second: LevelSelect-hd 1_788
+  - first:
+      213: 8657459976608743583
+    second: LevelSelect-hd 1_789
+  - first:
+      213: -7675251052075395928
+    second: LevelSelect-hd 1_790
+  - first:
+      213: -9100965613497734893
+    second: LevelSelect-hd 1_791
+  - first:
+      213: 1829188336219623892
+    second: LevelSelect-hd 1_792
+  - first:
+      213: 860522576394686538
+    second: LevelSelect-hd 1_793
+  - first:
+      213: -5745780460107506096
+    second: LevelSelect-hd 1_794
+  - first:
+      213: -4880690613858433828
+    second: LevelSelect-hd 1_795
+  - first:
+      213: 4500773348673081640
+    second: LevelSelect-hd 1_796
+  - first:
+      213: 4162400102558398583
+    second: LevelSelect-hd 1_797
+  - first:
+      213: -8207264755349571587
+    second: LevelSelect-hd 1_798
+  - first:
+      213: 6372765691967258230
+    second: LevelSelect-hd 1_799
+  - first:
+      213: -938581455470067246
+    second: LevelSelect-hd 1_800
+  - first:
+      213: -6268934802195359443
+    second: LevelSelect-hd 1_801
+  - first:
+      213: -3735234929094051841
+    second: LevelSelect-hd 1_802
+  - first:
+      213: -1653163897092042461
+    second: LevelSelect-hd 1_803
+  - first:
+      213: 2400252425182049642
+    second: LevelSelect-hd 1_804
+  - first:
+      213: 72335020428655894
+    second: LevelSelect-hd 1_805
+  - first:
+      213: -8140387659207118445
+    second: LevelSelect-hd 1_806
+  - first:
+      213: 1772057831882653180
+    second: LevelSelect-hd 1_807
+  - first:
+      213: -7309608628799710092
+    second: LevelSelect-hd 1_808
+  - first:
+      213: -8280155986257740608
+    second: LevelSelect-hd 1_809
+  - first:
+      213: 7099596074540564159
+    second: LevelSelect-hd 1_810
+  - first:
+      213: 4886359781118177503
+    second: LevelSelect-hd 1_811
+  - first:
+      213: 6101970664878738075
+    second: LevelSelect-hd 1_812
+  - first:
+      213: -1720692009553361499
+    second: LevelSelect-hd 1_813
+  - first:
+      213: -3139065351107526467
+    second: LevelSelect-hd 1_814
+  - first:
+      213: -3176822219498884505
+    second: LevelSelect-hd 1_815
+  - first:
+      213: 1409750686612222000
+    second: LevelSelect-hd 1_816
+  - first:
+      213: 4700171915451107195
+    second: LevelSelect-hd 1_817
+  - first:
+      213: 7104699903874762700
+    second: LevelSelect-hd 1_818
+  - first:
+      213: -6249996587889621518
+    second: LevelSelect-hd 1_819
+  - first:
+      213: -6820501840909015639
+    second: LevelSelect-hd 1_820
+  - first:
+      213: 742853224616554341
+    second: LevelSelect-hd 1_821
+  - first:
+      213: 1342036909771907621
+    second: LevelSelect-hd 1_822
+  - first:
+      213: 6134929167605345161
+    second: LevelSelect-hd 1_823
+  - first:
+      213: -1369381474763095823
+    second: LevelSelect-hd 1_824
+  - first:
+      213: 1348586085006130528
+    second: LevelSelect-hd 1_825
+  - first:
+      213: 7958915914202451296
+    second: LevelSelect-hd 1_826
+  - first:
+      213: 290203767800372539
+    second: LevelSelect-hd 1_827
+  - first:
+      213: 2480843157443305149
+    second: LevelSelect-hd 1_828
+  - first:
+      213: 5066974898019118236
+    second: LevelSelect-hd 1_829
+  - first:
+      213: 1420954682406251629
+    second: LevelSelect-hd 1_830
+  - first:
+      213: 5628309760825535486
+    second: LevelSelect-hd 1_831
+  - first:
+      213: -7488963463473872697
+    second: LevelSelect-hd 1_832
+  - first:
+      213: 1873536426836626180
+    second: LevelSelect-hd 1_833
+  - first:
+      213: -5888255989576393938
+    second: LevelSelect-hd 1_834
+  - first:
+      213: 1989827463138036016
+    second: LevelSelect-hd 1_835
+  - first:
+      213: 8664641637870038222
+    second: LevelSelect-hd 1_836
+  - first:
+      213: 4654319992752958772
+    second: LevelSelect-hd 1_837
+  - first:
+      213: 4006639035573212499
+    second: LevelSelect-hd 1_838
+  - first:
+      213: -4852669875616449691
+    second: LevelSelect-hd 1_839
+  - first:
+      213: -8943266873725047851
+    second: LevelSelect-hd 1_840
+  - first:
+      213: -1049214755771420887
+    second: LevelSelect-hd 1_841
+  - first:
+      213: 3488581815494300678
+    second: LevelSelect-hd 1_842
+  - first:
+      213: -1138538854651152102
+    second: LevelSelect-hd 1_843
+  - first:
+      213: -1213463198288852419
+    second: LevelSelect-hd 1_844
+  - first:
+      213: -2760408458008105319
+    second: LevelSelect-hd 1_845
+  - first:
+      213: 2032039529749238622
+    second: LevelSelect-hd 1_846
+  - first:
+      213: 1772698367340702740
+    second: LevelSelect-hd 1_847
+  - first:
+      213: -8007875615264545054
+    second: LevelSelect-hd 1_848
+  - first:
+      213: -337254496554302371
+    second: LevelSelect-hd 1_849
+  - first:
+      213: 4566484743518040464
+    second: LevelSelect-hd 1_850
+  - first:
+      213: -27747509591215150
+    second: LevelSelect-hd 1_851
+  - first:
+      213: 5139250544749038853
+    second: LevelSelect-hd 1_852
+  - first:
+      213: 2993654396123656720
+    second: LevelSelect-hd 1_853
+  - first:
+      213: 8181365449384368422
+    second: LevelSelect-hd 1_854
+  - first:
+      213: -7465504757532015068
+    second: LevelSelect-hd 1_855
+  - first:
+      213: 5577541187428750897
+    second: LevelSelect-hd 1_856
+  - first:
+      213: -139576044289288475
+    second: LevelSelect-hd 1_857
+  - first:
+      213: -8708519684458395758
+    second: LevelSelect-hd 1_858
+  - first:
+      213: 8101993002432430350
+    second: LevelSelect-hd 1_859
+  - first:
+      213: -9142389884390101253
+    second: LevelSelect-hd 1_860
+  - first:
+      213: -1155985536975979292
+    second: LevelSelect-hd 1_861
+  - first:
+      213: -1253872432913232230
+    second: LevelSelect-hd 1_862
+  - first:
+      213: 8756432469467780421
+    second: LevelSelect-hd 1_863
+  - first:
+      213: 6463556509147409801
+    second: LevelSelect-hd 1_864
+  - first:
+      213: 6382029458007969460
+    second: LevelSelect-hd 1_865
+  - first:
+      213: -4914104116423379720
+    second: LevelSelect-hd 1_866
+  - first:
+      213: -4415080454767979286
+    second: LevelSelect-hd 1_867
+  - first:
+      213: 4833305156934669568
+    second: LevelSelect-hd 1_868
+  - first:
+      213: -8245474610082601067
+    second: LevelSelect-hd 1_869
+  - first:
+      213: 3322029833067679690
+    second: LevelSelect-hd 1_870
+  - first:
+      213: 5974241764068220209
+    second: LevelSelect-hd 1_871
+  - first:
+      213: 2787525334594315543
+    second: LevelSelect-hd 1_872
+  - first:
+      213: -916754914833009120
+    second: LevelSelect-hd 1_873
+  - first:
+      213: 9040950129822594753
+    second: LevelSelect-hd 1_874
+  - first:
+      213: -6014704491850595673
+    second: LevelSelect-hd 1_875
+  - first:
+      213: 4099937392364531784
+    second: LevelSelect-hd 1_876
+  - first:
+      213: 7113066086361573978
+    second: LevelSelect-hd 1_877
+  - first:
+      213: -7669312361498947595
+    second: LevelSelect-hd 1_878
+  - first:
+      213: -8329433785753686485
+    second: LevelSelect-hd 1_879
+  - first:
+      213: -7996608324947414088
+    second: LevelSelect-hd 1_880
+  - first:
+      213: 4824567852863181559
+    second: LevelSelect-hd 1_881
+  - first:
+      213: 3737582832640739537
+    second: LevelSelect-hd 1_882
+  - first:
+      213: 7699034511554819266
+    second: LevelSelect-hd 1_883
+  - first:
+      213: 1144679680714223202
+    second: LevelSelect-hd 1_884
+  - first:
+      213: 317682756259529980
+    second: LevelSelect-hd 1_885
+  - first:
+      213: -8933946526504546798
+    second: LevelSelect-hd 1_886
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1705
+        width: 803
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b168e0c49a1690800000000000000
+      internalID: -7630623062372535039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1851
+        width: 746
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a540c9bf48a5c5f30800000000000000
+      internalID: 4565623649450329178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1663
+        width: 486
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f428c7106172cad0800000000000000
+      internalID: -2683457770429602575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1708
+        width: 669
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e6d7d079c51f90800000000000000
+      internalID: -6983454160673380138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_4
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1711
+        width: 70
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d507ad504c05440800000000000000
+      internalID: 4922649922134629765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1520
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc4036d07abb5d0800000000000000
+      internalID: -3045657047048335383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1520
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd9707431e952f0800000000000000
+      internalID: -983507428262159358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1520
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff97aa647fa53e30800000000000000
+      internalID: 4482681918657634290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1528
+        width: 518
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d1080fc7495a70800000000000000
+      internalID: 8816156700072597500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1319
+        width: 453
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cd0526a38c6270800000000000000
+      internalID: 8245109767418003888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_10
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1570
+        width: 288
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf877a0af2c21ea40800000000000000
+      internalID: 5395642411636979964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_11
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1500
+        width: 68
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb2388a325f77c0800000000000000
+      internalID: -4071445126773031319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_12
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1291
+        width: 449
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9181b3bf2c5395d0800000000000000
+      internalID: -3056998362106461796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_13
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1616
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d209f8f237b38750800000000000000
+      internalID: 6306085332802142932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_14
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1501
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b4270c6e30c120800000000000000
+      internalID: 2432012432477305113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_15
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1501
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75501e6cdb94e73d0800000000000000
+      internalID: -3207044805206932137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_16
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1501
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c20b7ff68698780800000000000000
+      internalID: -8680291976673743800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_17
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1501
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b48a81cc56f5ce80800000000000000
+      internalID: -8158844271667280714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_18
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1520
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c107b1f9c58590800000000000000
+      internalID: -7672504350161124050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_19
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1567
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d964c0f6b10ad0800000000000000
+      internalID: -2737705953260875472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_20
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1459
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b42aea951191050800000000000000
+      internalID: 5771663474331634538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_21
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1520
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7488112bc9ea1c0800000000000000
+      internalID: -4490479489829550155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1502
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa650f33f1087c60800000000000000
+      internalID: 7815999297547496182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1301
+        width: 26
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bcea596b2fed7a0800000000000000
+      internalID: -6350371558536590516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1305
+        width: 556
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafe1cfe18169c130800000000000000
+      internalID: 3587505788878450604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1509
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fcbda5b1b8bdaa0800000000000000
+      internalID: -6135157117757436006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_26
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1471
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff835b6f969f9b50800000000000000
+      internalID: 6602161190193041404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1415
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd69a52dbbd72de0800000000000000
+      internalID: -1357875157201752617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_28
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1389
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ede66cad5a11720800000000000000
+      internalID: 2815213601133878879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_29
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1118
+        width: 351
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902b3ef63f8b6660800000000000000
+      internalID: 7380149880732983442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_30
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1425
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575f143dad210ba0800000000000000
+      internalID: -6124563796320102575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1304
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde69affae3694860800000000000000
+      internalID: 7514647314207174367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1319
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41f74a7a3134dc80800000000000000
+      internalID: -8298954086107582131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_33
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1380
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceafb741c1a0a1c90800000000000000
+      internalID: -7198429938679285012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_34
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1335
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2630fb4b6f2a6e890800000000000000
+      internalID: -7429071354822982814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 939
+        width: 351
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af532e73ee9140680800000000000000
+      internalID: -8789872061789882886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_36
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1291
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5382cdcf57f4f0800000000000000
+      internalID: -795061471871280479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 149
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401619944aaecbad0800000000000000
+      internalID: -2685013286489857788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 655
+        width: 252
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07326025a02130b70800000000000000
+      internalID: 8863948327130375024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 728
+        width: 290
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72caf12520eff9760800000000000000
+      internalID: 7466965993124768807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_40
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 761
+        width: 134
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c539a53a1ec9fcf0800000000000000
+      internalID: -217916494986005056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 928
+        width: 378
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642de0d5ff8ba830800000000000000
+      internalID: 4083515773076448353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_42
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1173
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6dc1e4cf23d270800000000000000
+      internalID: 8274009463058164631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_43
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 738
+        width: 357
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488e2bc3d60e0100800000000000000
+      internalID: 76005750428567619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_44
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1071
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16396ea0feb52f0e0800000000000000
+      internalID: -2237624982611520671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_45
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1017
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de989b8b29a514e70800000000000000
+      internalID: 9097652308476004845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_46
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1018
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fd379171faa840800000000000000
+      internalID: 5236262986942640512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_47
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1017
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e519cb9934010f80800000000000000
+      internalID: -8142222005835852318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_48
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 963
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8422313cc354e0800000000000000
+      internalID: -1994025698328277362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_49
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 953
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82d749108102570800000000000000
+      internalID: 8439772096757573878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_50
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 875
+        width: 160
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae3d88951d4ab330800000000000000
+      internalID: 3727376396751552172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_51
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 888
+        width: 133
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66e579aa8f61110800000000000000
+      internalID: 1231444959700084404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_52
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 891
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d94971781b0e90800000000000000
+      internalID: -7058521115327868042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_53
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 560
+        width: 378
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b1ee1ee41ae53c0800000000000000
+      internalID: -4368877228332803201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_54
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 904
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33f9d49332eaa00800000000000000
+      internalID: 769591315349320631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_55
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 900
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f0606f8efbc5c40800000000000000
+      internalID: 5502483852020813719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_56
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 899
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75662bb68744fd00800000000000000
+      internalID: 1005507260801508730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_57
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 359
+        width: 287
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e9f38cd395eca30800000000000000
+      internalID: 4237422421289705103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_58
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 843
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa72d2d9525b3e0800000000000000
+      internalID: -2038681899317613926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_59
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 849
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e8bbbee7daba30800000000000000
+      internalID: 4231932220219647266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_60
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 845
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237cf88deca5e6430800000000000000
+      internalID: 3778056981853488946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_61
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 789
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047b8bf8aa77de80800000000000000
+      internalID: -8153913734137678841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_62
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 795
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9a87c05705270b0800000000000000
+      internalID: -5732430912038590047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_63
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 791
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2b9b71c15deef0800000000000000
+      internalID: -77315727151125927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 725
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7cd073e804fb20800000000000000
+      internalID: 3167166210892398308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_65
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 699
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d0e5c5ae6735f0800000000000000
+      internalID: -777030752429615276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_66
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 735
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf13315cc5ac5f60800000000000000
+      internalID: 8024470933021597639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_67
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 742
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b961f7c88d62ac0800000000000000
+      internalID: -3880175930993894498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_68
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 741
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e062dfdd54626530800000000000000
+      internalID: 3846747386077667555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 629
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422ef1506660ce490800000000000000
+      internalID: -7715785026350095836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_70
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 629
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ae46a5150273b0800000000000000
+      internalID: -5516341003032813405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_71
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 642
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d084c63c259d40800000000000000
+      internalID: 5590423126186971916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_72
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 712
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d41d10867a67b0800000000000000
+      internalID: -5230237724621614699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_73
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 358
+        width: 351
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940d8ddf76b83870800000000000000
+      internalID: 8662874543541257372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_74
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 645
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036b409203b505fa0800000000000000
+      internalID: -5814046856530577872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_75
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 662
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af6e2d3a43002a60800000000000000
+      internalID: 7647115784664018853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_76
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 684
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7236e8e31dabec0800000000000000
+      internalID: -3550295289621174347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_77
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 623
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c135a20df0766570800000000000000
+      internalID: 8459573182035472833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 623
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf03dab6466a120800000000000000
+      internalID: 2424735863015537739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_79
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 624
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e29db33fbe7f2d0800000000000000
+      internalID: -3244865576583483901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_80
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 629
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52260b0edb0531a0800000000000000
+      internalID: -6830540211541892516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 629
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc976ce3ba669e0800000000000000
+      internalID: -1628425929141661796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_82
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 594
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c452ed5fb2f0b70800000000000000
+      internalID: 8867354526309764235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_83
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 598
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e52ee94e4c10b40800000000000000
+      internalID: 5404817514018528855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_84
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 591
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c78ae17860d240800000000000000
+      internalID: 4814462840134420475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_85
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 625
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ff6851031b6220800000000000000
+      internalID: 2480096916297216260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 294
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425b44267abec060800000000000000
+      internalID: 6975717889421300301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 30
+        width: 309
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095a5ec1c4e35bf0800000000000000
+      internalID: -336674026080806649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_88
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 451
+        width: 161
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56486d90504563420800000000000000
+      internalID: 2609365414724404325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_89
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 577
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f636b4789be8970800000000000000
+      internalID: 8759142316018724632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 524
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7687297914df5bd70800000000000000
+      internalID: 9058424683683280999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_91
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 523
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029c9b953902cec0800000000000000
+      internalID: -3548263430565883381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_92
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 192
+        width: 378
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71386e60ab8ce9400800000000000000
+      internalID: 332924123777237783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_93
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 486
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2159faf1f31d1ee0800000000000000
+      internalID: -1288851988339404502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_94
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 449
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d80cf8b5a1fff1f0800000000000000
+      internalID: -1008822097432278828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_95
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 311
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba40cb46a3460ec0800000000000000
+      internalID: -3601116470521607490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_96
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 418
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f210b6d618b1928b0800000000000000
+      internalID: -5176576053985214161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_97
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 387
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2541560bea9ba1290800000000000000
+      internalID: -7918812834842733486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_98
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 356
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a6ef826906fde0800000000000000
+      internalID: -1299841123524107329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_99
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 322
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026e3ca1e5f1b0b80800000000000000
+      internalID: -8427607788657318368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_100
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 219
+        width: 156
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5157ff3ca1f1a0800000000000000
+      internalID: -6777446573483663434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_101
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 150
+        width: 61
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a738af5d0ef230800000000000000
+      internalID: 3674389050476177051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_102
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 278
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae754bc2f6772b0800000000000000
+      internalID: -5586874574934906151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_103
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 181
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc813db39ee03a00800000000000000
+      internalID: 734349057563135218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_104
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 162
+        width: 48
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1be677db977f400800000000000000
+      internalID: 357888550058766766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_105
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 160
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195053db4a9e7d80800000000000000
+      internalID: -8250987816837687023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_106
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 35
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877b7d10f4c71400800000000000000
+      internalID: 294920836181882754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_107
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 35
+        width: 50
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41875ff8ab6bda40800000000000000
+      internalID: 5394023352288903499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_108
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 52
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa38c0e7052ca60800000000000000
+      internalID: 7692799615808285318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_109
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2
+        width: 139
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef228a4bfa4e61a0800000000000000
+      internalID: -6814426743017689115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_110
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 60
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a210af803a36b940800000000000000
+      internalID: 5311496790772552356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_111
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 61
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c0908358393a220800000000000000
+      internalID: 2496000818873437301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_112
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 19
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b065b4d2d1bdc70800000000000000
+      internalID: 8996816760977361821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_113
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 19
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7906ae80f82b74ac0800000000000000
+      internalID: -3870929027302006633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSelect-hd 1_114
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 146
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7aa2389f2eddf0800000000000000
+      internalID: -153633006552449081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -28,7 +28,7 @@ public class key_load : MonoBehaviour
         }
         if (key && collision.gameObject.tag =="last_map")
         {
-            SceneManager.LoadScene("BeginScene");
+            SceneManager.LoadScene("man2");
         }
     }
 }
